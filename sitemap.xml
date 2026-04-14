@@ -47,6 +47,31 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/diy-cookie-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/paint-night-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/build-your-own-birdhouse-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/family-puzzle-challenge-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/diy-candle-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
