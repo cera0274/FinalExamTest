@@ -1,0 +1,16 @@
+2026-04-14T13:46:11-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/FinalExamTest/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/FinalExamTest/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-14T13:46:11-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/FinalExamTest/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/FinalExamTest/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-14T13:46:11-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/FinalExamTest/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/FinalExamTest/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-14T13:46:11-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/FinalExamTest/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/FinalExamTest/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-14T13:46:28-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/FinalExamTest/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/FinalExamTest/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-14T13:46:28-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/FinalExamTest/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/FinalExamTest/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-14T13:46:28-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/FinalExamTest/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/FinalExamTest/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-14T13:46:28-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/FinalExamTest/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/FinalExamTest/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
