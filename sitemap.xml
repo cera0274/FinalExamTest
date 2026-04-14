@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/how-family-activity-kits-reduce-stress/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/creative-play-as-a-stress-reliever/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/why-screen-free-time-matters/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/building-stronger-family-connections/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/mindfulness-through-hands-on-activities/
         </loc>
     </url>
     <url>
@@ -23,11 +43,6 @@
     <url>
         <loc>
             http://localhost:8000/posts/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/sample-product-page/
         </loc>
     </url>
     <url>
