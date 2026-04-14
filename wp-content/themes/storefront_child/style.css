@@ -1,8 +1,83 @@
 /*
 Theme Name:     storefront_child
-Description:    
+Description:    child
 Author:         cera21
 Template:       storefront
-
-(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+.site-header {
+    background-color: #2a9d8f;
+    padding: 25px;
+    border-bottom: 4px solid #264653;
+}
+
+.site-title a {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 1px;
+}
+
+.main-navigation a {
+    color: #f1faee;
+    font-weight: 500;
+    margin-right: 15px;
+}
+
+.main-navigation a:hover {
+    color: #e9c46a;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background-color: #edf6f9;
+    line-height: 1.6;
+}
+
+a {
+    color: #e76f51;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #d62828;
+    text-decoration: underline;
+}
+
+.post, .page {
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px auto;
+    max-width: 850px;
+    border-radius: 12px;
+    border-left: 6px solid #2a9d8f;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+}
+
+h1, h2, h3 {
+    color: #264653;
+    margin-bottom: 10px;
+}
+
+button,
+.wp-block-button__link {
+    background-color: #2a9d8f;
+    color: #ffffff;
+    border-radius: 6px;
+    padding: 12px 22px;
+    border: none;
+    transition: 0.3s ease;
+}
+
+button:hover,
+.wp-block-button__link:hover {
+    background-color: #21867a;
+    transform: scale(1.05);
+}
+
+.site-footer {
+    background-color: #264653;
+    color: #f1faee;
+    text-align: center;
+    padding: 25px;
+    font-size: 14px;
+}
