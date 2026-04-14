@@ -7,12 +7,27 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sign-up/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
         </loc>
     </url>
     <url>
